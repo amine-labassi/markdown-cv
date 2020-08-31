@@ -50,7 +50,7 @@ __Société Générale__, Val de Fontenay
 - __Mission :__ J'interviens en tant qu'Architecte Applicatif/DevOps au sein d'une cellule d'architecture.
   - Développemennt de solutions d'architectures
     - IAM Platform Management (Vertx/Cassandra/AWS/OIDC/DSP2)
-    - Déploiement de la solution OpenAPI SG dans AWS (AWS/Terraform)
+    - API Platform Management(AWS/Docker/K8s)
     - Message broker Oauth2/Cloud Native (Vertx/Cassandra/DockerEE)
   - Veille technologique
     - Maintenance et évolution du socle d'architecture (cadre de référence) 
@@ -60,7 +60,7 @@ __Société Générale__, Val de Fontenay
     - Définition d'une architecture de déploiement
     - Sécurité applicative/d'infrastructure
     - Audit applicatif
-- __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, Terraform, Cassandra, IBM API Connect, EDA
+- __Compétences :__ Microservices, OpenAPI, IAM, CloudNative, AWS, K8s, Terraform, Cassandra, IBM API Connect, EDA
 
 `11/15-1/17`
 __Aviva__, Bois de colombes
