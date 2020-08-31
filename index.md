@@ -17,7 +17,7 @@ Cloud, IAM Management, DevOps, API Management, Architectures Réactives
 * __Cloud/On-Premise :__
 <br/>Amazon AWS, DockerEE, OpenShift, K8s
 <br/>Terraform, Ansible
-* __API Management :__<br/>IBM API Connect, Tyk
+* __API Management :__<br/>IBM API Connect, Spring Cloud Gateway
 * __Web :__<br/>Angular/Javascript/NodeJs, HTML/CSS, Bootstrap
 <br/>Tooling/Testing : Bower, NodeJs, Karma, Jasmine
 * __Java Ecosystem :__ 
